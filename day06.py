@@ -1,24 +1,24 @@
 #string-float
-# price = "99.50"
+price = "99.50"
 
-# price = float(price)
+price = float(price)
 
-# print(price)
-# print(type(price))
+print(price)
+print(type(price))
 #inter-string
-# num = 100
+num = 100
 
-# num = str(num)
+num = str(num)
 
-# print(num)
-# print(type(num))
+print(num)
+print(type(num))
 #integer-float
-# num = 10
+num = 10
 
-# result = float(num)
+result = float(num)
 
-# print(result)
-# print(type(result))
+print(result)
+print(type(result))
 # string to boolean
 name = "Prasanna"
 
